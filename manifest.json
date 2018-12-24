@@ -53,9 +53,10 @@
 "personalizationsearchsmartedit",
 "personalizationsearchweb",
 "personalizationsearchsamplesaddon",
-"promotionengineatddtests",
 "textfieldconfiguratortemplateatddtests",
 "pcmbackofficesamplesaddon",
+"pcmbackoffice",
+"addonsupport",
 "yb2bacceleratorstorefront"
    ],
     "storefrontAddons": [
